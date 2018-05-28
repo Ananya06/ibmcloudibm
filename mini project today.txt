@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>easy learn</title></head>
+<body background=t2.jpg>
+<U><h1><center>WELCOME E LEARNING SITE</CENTER></U></h1>
+<MARQUEE><IMG SRC=A1.PNG HEIGHT=200 WIDTH=300>
+<IMG SRC=A2.PNG HEIGHT=200 WIDTH=300></MARQUEE>
+
+
+<h2><center bgcolor=black><font face="forte" >WELCOME TO HTML TUTORIAL: THE E LEARNING SITE</h2></font></CENTER>
+
+
+<img src="ht copy.png" height=200 width=225 ALIGN="RIGHT">
+<font color=BLACK size=4>HTML is a computer language devised to allow website creation. These websites can then be viewed by anyone else connected to the Internet.
+ It is relatively easy to learn, with the basics being accessible to most people in one sitting; and quite powerful in what it allows you to create. It is constantly undergoing revision and evolution to meet the demands and requirements of the growing Internet audience under the direction of the » W3C, the organisation charged with designing and maintaining the language.
+
+The definition of HTML is HyperText Markup Language.
+
+HyperText is the method by which you move around on the web — by clicking on special text called hyperlinks which bring you to the next page. The fact that it is hyper just means it is not linear — i.e. you can go to any place on the Internet whenever you want by clicking on links — there is no set order to do things in.
+Markup is what HTML tags do to the text inside them. They mark it as a certain type of text (italicised text, for example).
+HTML is a Language, as it has code-words and syntax like any other language.<br><br>
+<a href="https://www.codecademy.com/learn/learn-html"><H2><IMG SRC=A4.PNG HEIGHT=300 WIDTH=300"></A>
+<a href="https://www.youtube.com/watch?v=y3UH2gAhwPI"><IMG SRC=A5.PNG HEIGHT=300 WIDTH=300"></A>
+
+<a href="https://www.w3schools.com/html/html_intro.asp"><IMG SRC=A6.PNG HEIGHT=300 WIDTH=300"></A><BR>
+
+
+
+
+
